@@ -35,5 +35,6 @@ Added filters for Outlet Type, Size, and Item Type.
 Formatted and tested the dashboard.
 
 #Dashboard
+
 <img width="1557" height="822" alt="Screenshot 2025-08-03 204952" src="https://github.com/user-attachments/assets/e4f9b568-e040-4235-93d5-d23329fc14fe" />
 
